@@ -1,0 +1,17 @@
+body {
+    background-color: #f0f2f5; /* 1. 明るい背景色 (ライトグレーブルー) */
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    color: #e02424; /* 2. モンストの赤系 (ビビッドレッド) */
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+p {
+    color: #007bff; /* 3. モンストの青系 (ブライトブルー) */
+    font-size: 16px;
+    line-height: 1.5;
+}
